@@ -2,9 +2,11 @@
 ::
 /-  entry
 /=  gas  /$  fuel:html
+:: this works
 /=  entries  /:  /===/web/recessional
              /^  (map knot manx)  /_  /&elem&/md/
 ::
+:: ents is always empty
 /=  ents  /:  /===/web/recessional
              /^  (map knot entry)  /_  /blerg-entry/
 ::
